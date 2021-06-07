@@ -1,10 +1,15 @@
 - 👋 Hi, I’m @KonradDlugosz
-- 👀 I’m interested in AI and Cybersecurity
-- 🌱 I’m currently learning C++ 
+- 👀 AI and Cybersecurity.
+- 🌱 Java | JavaScript | R | Python | C++
+- :books: Brunel University Graduate
 - 📫 dlugoszkonrad00@gmail.com  
 
 
-👀 Other intersets: HGV transport
+👀 Other intersets: 
+- :computer: Technology enthusiast
+- :video_game: Gamer
+- :articulated_lorry: HGV transport, Profesional lorry driver
+- :car: Car enthusiast 
 
 <!---
 KonradDlugosz/KonradDlugosz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
