@@ -1,4 +1,5 @@
 <h2>About me</h2>
+
 - 👋 Hi, I’m @KonradDlugosz
 - 👀 AI and Software Engineering.
 - 🌱 Java | R | Python | C#
@@ -7,7 +8,8 @@
 - :office: Sparta Global
 
 
-👀 Other intersets: 
+<h2>Intersets:</h2> 
+
 - :computer: Technology enthusiast
 - :video_game: Gamer
 - :articulated_lorry: HGV transport, Profesional lorry driver
