@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @KonradDlugosz
 - 👀 AI and Software Engineering.
-- 🌱 Java | R | Python | C# | REST APIs
+- 🌱 Java | Groovy | R | Python | C# | Bash | REST APIs | DevOps Engineer 
 - :books: Brunel University Graduate
 - 📫 dlugoszkonrad00@gmail.com  
 - :office: Sparta Global - Fintech 💰
