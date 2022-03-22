@@ -5,7 +5,7 @@
 - 🌱 Java | R | Python | C# | REST APIs
 - :books: Brunel University Graduate
 - 📫 dlugoszkonrad00@gmail.com  
-- :office: Sparta Global
+- :office: Sparta Global - Fintech 💰
 
 
 <h2>Intersets:</h2> 
