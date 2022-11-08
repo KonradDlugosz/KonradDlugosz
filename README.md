@@ -6,6 +6,7 @@
 - :books: Brunel University Graduate
 - 📫 dlugoszkonrad00@gmail.com  
 - :office: Sparta Global - Fintech 💰
+- Certifications: AWS Cloud Practitioner & Terraform Associate C02
 
 
 <h2>Intersets:</h2> 
